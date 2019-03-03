@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uuid" prefix="calibre: https://calibre-ebook.com">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id">Malé dějiny církve</dc:title>
+    <dc:creator id="id-1">August Franzen</dc:creator>
+    <dc:identifier>google:dYySBAAACAAJ</dc:identifier>
+    <dc:identifier>isbn:9788071950820</dc:identifier>
+    <dc:identifier>calibre:5</dc:identifier>
+    <dc:identifier>uuid:fb4fa2d7-d6ac-491f-b987-d1b37fb2ef5a</dc:identifier>
+    <dc:identifier id="uuid">{AD6A7B0B-47EB-4351-BABA-43B336C4A92C}</dc:identifier>
+    <dc:language>cs-CZ</dc:language>
+    <dc:date>2006-10-14T22:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;Kniha vychází z německého originálu, který vyšel v nakladatelství Herder
+ v roce 2005 už jako 24. vydání. Toto vydání bylo po smrti profesora 
+Franzena aktualizováno o dvě závěrečné kapitoly, jejichž autorem je 
+Roland Fröhlich. Základní fakta z církevních dějin slovanských a českých
+ doplnil překladatel a historik Bedřich Smékal. Malé dějiny církve se 
+čtou jako napínavý historický román. Vzhledem k mnoha kontroverzním 
+historickým souvislostem je téma církevních dějin velmi ožehavé. Bývá 
+proto velmi nesnadné zachovat vyváženost při výkladu tohoto tématu a mít
+ při tom ohled na čtenáře, který může někdy mít na jednotlivé dějinné 
+záležitosti odlišný názor. Nesporným paradoxem křesťanství je 
+skutečnost, že jeho ideálem je jednota a společenství ve víře, avšak 
+jeho dějiny tvoří z velké části sled dělení a rozporů, schizmat a 
+vydělování se ze společenství církve. &lt;br&gt;
+Publikace profesora teologie a církevních dějin Augusta Franzena přináší
+ koncentrovaný a odborně fundovaný přehled dějin katolické církve na 
+pozadí politické, sociální a duchovně kulturní historie od dob vzniku 
+Nového Zákona. Kniha vychází z německého originálu, který vyšel v 
+nakladatelství Herder v roce 2005 už jako 24. vydání. Toto vydání bylo 
+po smrti profesora Franzena aktualizováno o dvě závěrečné kapitoly, 
+jejichž autorem je Roland Fröhlich, a které sahají až k volbě papeže 
+Benedikta XVI. Pro českého čtenáře navíc titul o základní fakta z 
+církevních dějin slovanských a českých doplnil překladatel a historik 
+Bedřich Smékal. &lt;br&gt;
+Malé dějiny církve se nevyhýbají ani tématům, která nejsou pro církev 
+příjemná, zachycuje pravdivě její problémy, historické omyly i hříšnost 
+některých jejích představitelů.&lt;/div&gt;</dc:description>
+    <dc:publisher>Karmelitánské nakladatelství</dc:publisher>
+    <meta refines="#id" property="title-type">main</meta>
+    <meta refines="#id" property="file-as">Malé dějiny církve</meta>
+    <meta name="cover" content="cover-image"/>
+    <meta property="role" refines="#id-1" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#id-1">Franzen, August</meta>
+    <meta property="calibre:author_link_map">{"August Franzen": ""}</meta>
+    <meta property="dcterms:modified" scheme="dcterms:W3CDTF">2019-03-03T12:05:15Z</meta>
+  </metadata>
+  <manifest>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="book.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="info.xhtml" id="id0" media-type="application/xhtml+xml"/>
+    <item href="navigation.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="introduction.xhtml" id="id84" media-type="application/xhtml+xml"/>
+    <item href="chapter-1.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="chapter-2.xhtml" id="id16" media-type="application/xhtml+xml"/>
+    <item href="chapter-3.xhtml" id="id18" media-type="application/xhtml+xml"/>
+    <item href="chapter-4.xhtml" id="id19" media-type="application/xhtml+xml"/>
+    <item href="chapter-5.xhtml" id="id20" media-type="application/xhtml+xml"/>
+    <item href="chapter-6.xhtml" id="id21" media-type="application/xhtml+xml"/>
+    <item href="chapter-7.xhtml" id="id22" media-type="application/xhtml+xml"/>
+    <item href="chapter-8.xhtml" id="id23" media-type="application/xhtml+xml"/>
+    <item href="chapter-9.xhtml" id="id24" media-type="application/xhtml+xml"/>
+    <item href="chapter-10.xhtml" id="id25" media-type="application/xhtml+xml"/>
+    <item href="chapter-11.xhtml" id="id26" media-type="application/xhtml+xml"/>
+    <item href="chapter-12.xhtml" id="id27" media-type="application/xhtml+xml"/>
+    <item href="chapter-13.xhtml" id="id28" media-type="application/xhtml+xml"/>
+    <item href="chapter-14.xhtml" id="id29" media-type="application/xhtml+xml"/>
+    <item href="chapter-15.xhtml" id="id30" media-type="application/xhtml+xml"/>
+    <item href="chapter-16.xhtml" id="id31" media-type="application/xhtml+xml"/>
+    <item href="chapter-17.xhtml" id="id32" media-type="application/xhtml+xml"/>
+    <item href="chapter-18.xhtml" id="id33" media-type="application/xhtml+xml"/>
+    <item href="chapter-19.xhtml" id="id34" media-type="application/xhtml+xml"/>
+    <item href="chapter-20.xhtml" id="id35" media-type="application/xhtml+xml"/>
+    <item href="chapter-21.xhtml" id="id36" media-type="application/xhtml+xml"/>
+    <item href="chapter-22.xhtml" id="id37" media-type="application/xhtml+xml"/>
+    <item href="chapter-23.xhtml" id="id38" media-type="application/xhtml+xml"/>
+    <item href="chapter-24.xhtml" id="id39" media-type="application/xhtml+xml"/>
+    <item href="chapter-25.xhtml" id="id40" media-type="application/xhtml+xml"/>
+    <item href="chapter-26.xhtml" id="id41" media-type="application/xhtml+xml"/>
+    <item href="chapter-27.xhtml" id="id42" media-type="application/xhtml+xml"/>
+    <item href="chapter-28.xhtml" id="id43" media-type="application/xhtml+xml"/>
+    <item href="chapter-29.xhtml" id="id44" media-type="application/xhtml+xml"/>
+    <item href="chapter-30.xhtml" id="id45" media-type="application/xhtml+xml"/>
+    <item href="chapter-31.xhtml" id="id46" media-type="application/xhtml+xml"/>
+    <item href="chapter-32.xhtml" id="id47" media-type="application/xhtml+xml"/>
+    <item href="chapter-33.xhtml" id="id48" media-type="application/xhtml+xml"/>
+    <item href="chapter-34.xhtml" id="id49" media-type="application/xhtml+xml"/>
+    <item href="chapter-35.xhtml" id="id50" media-type="application/xhtml+xml"/>
+    <item href="chapter-36.xhtml" id="id51" media-type="application/xhtml+xml"/>
+    <item href="chapter-37.xhtml" id="id52" media-type="application/xhtml+xml"/>
+    <item href="chapter-38.xhtml" id="id53" media-type="application/xhtml+xml"/>
+    <item href="chapter-39.xhtml" id="id54" media-type="application/xhtml+xml"/>
+    <item href="chapter-40.xhtml" id="id55" media-type="application/xhtml+xml"/>
+    <item href="chapter-41.xhtml" id="id56" media-type="application/xhtml+xml"/>
+    <item href="chapter-42.xhtml" id="id57" media-type="application/xhtml+xml"/>
+    <item href="chapter-43.xhtml" id="id58" media-type="application/xhtml+xml"/>
+    <item href="chapter-44.xhtml" id="id59" media-type="application/xhtml+xml"/>
+    <item href="chapter-45.xhtml" id="id60" media-type="application/xhtml+xml"/>
+    <item href="chapter-46.xhtml" id="id61" media-type="application/xhtml+xml"/>
+    <item href="chapter-47.xhtml" id="id62" media-type="application/xhtml+xml"/>
+    <item href="chapter-48.xhtml" id="id63" media-type="application/xhtml+xml"/>
+    <item href="chapter-49.xhtml" id="id64" media-type="application/xhtml+xml"/>
+    <item href="chapter-50.xhtml" id="id65" media-type="application/xhtml+xml"/>
+    <item href="chapter-51.xhtml" id="id66" media-type="application/xhtml+xml"/>
+    <item href="chapter-52.xhtml" id="id67" media-type="application/xhtml+xml"/>
+    <item href="chapter-53.xhtml" id="id68" media-type="application/xhtml+xml"/>
+    <item href="chapter-54.xhtml" id="id69" media-type="application/xhtml+xml"/>
+    <item href="chapter-55.xhtml" id="id70" media-type="application/xhtml+xml"/>
+    <item href="chapter-56.xhtml" id="id71" media-type="application/xhtml+xml"/>
+    <item href="chapter-57.xhtml" id="id72" media-type="application/xhtml+xml"/>
+    <item href="chapter-58.xhtml" id="id73" media-type="application/xhtml+xml"/>
+    <item href="chapter-59.xhtml" id="id74" media-type="application/xhtml+xml"/>
+    <item href="chapter-60.xhtml" id="id75" media-type="application/xhtml+xml"/>
+    <item href="chapter-61.xhtml" id="id76" media-type="application/xhtml+xml"/>
+    <item href="chapter-62.xhtml" id="id77" media-type="application/xhtml+xml"/>
+    <item href="chapter-63.xhtml" id="id78" media-type="application/xhtml+xml"/>
+    <item href="quotations-and-documents.xhtml" id="id79" media-type="application/xhtml+xml"/>
+    <item href="annexes.xhtml" id="id80" media-type="application/xhtml+xml"/>
+    <item href="tables.xhtml" id="id81" media-type="application/xhtml+xml"/>
+    <item href="popes.xhtml" id="id82" media-type="application/xhtml+xml"/>
+    <item href="literature.xhtml" id="id83" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="toc" media-type="application/x-dtbncx+xml"/>
+    <item href="cover.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine toc="toc">
+    <itemref idref="cover"/>
+    <itemref idref="id2"/>
+    <itemref idref="id0"/>
+    <itemref idref="nav"/>
+    <itemref idref="id84"/>
+    <itemref idref="id1"/>
+    <itemref idref="id16"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+    <itemref idref="id61"/>
+    <itemref idref="id62"/>
+    <itemref idref="id63"/>
+    <itemref idref="id64"/>
+    <itemref idref="id65"/>
+    <itemref idref="id66"/>
+    <itemref idref="id67"/>
+    <itemref idref="id68"/>
+    <itemref idref="id69"/>
+    <itemref idref="id70"/>
+    <itemref idref="id71"/>
+    <itemref idref="id72"/>
+    <itemref idref="id73"/>
+    <itemref idref="id74"/>
+    <itemref idref="id75"/>
+    <itemref idref="id76"/>
+    <itemref idref="id77"/>
+    <itemref idref="id78"/>
+    <itemref idref="id79"/>
+    <itemref idref="id80"/>
+    <itemref idref="id81"/>
+    <itemref idref="id82"/>
+    <itemref idref="id83"/>
+  </spine>
+</package>

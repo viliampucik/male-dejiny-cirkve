@@ -1,0 +1,1461 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="cs">
+  <head>
+    <meta content="{AD6A7B0B-47EB-4351-BABA-43B336C4A92C}" name="dtb:uid"/>
+    <meta content="5" name="dtb:depth"/>
+    <meta content="calibre (3.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Malé dějiny církve</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>August Franzen - Malé dějiny církve</text>
+      </navLabel>
+      <content src="info.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="introduction.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>I. období: KŘESŤANSKÝ STAROVĚK</text>
+      </navLabel>
+      <content src="chapter-1.xhtml"/>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>I. epocha: 1-311 (Od počátku církve do konstantinovského obratu)</text>
+        </navLabel>
+        <content src="chapter-1.xhtml#toc_1"/>
+        <navPoint id="num_5" playOrder="5">
+          <navLabel>
+            <text>§ 1 HISTORICKÝ JEŽÍŠ A ZALOŽENÍ CÍRKVE</text>
+          </navLabel>
+          <content src="chapter-1.xhtml#toc_2"/>
+          <navPoint id="num_6" playOrder="6">
+            <navLabel>
+              <text>1. Historická existence Ježíše</text>
+            </navLabel>
+            <content src="chapter-1.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_7" playOrder="7">
+            <navLabel>
+              <text>2. Historičnost založení církve</text>
+            </navLabel>
+            <content src="chapter-1.xhtml#toc_4"/>
+          </navPoint>
+          <navPoint id="num_8" playOrder="8">
+            <navLabel>
+              <text>3. Církev jako tajemství víry</text>
+            </navLabel>
+            <content src="chapter-1.xhtml#toc_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_9" playOrder="9">
+          <navLabel>
+            <text>§ 2 PRVOTNÍ CÍRKEV A APOŠTOLSKÁ DOBA</text>
+          </navLabel>
+          <content src="chapter-2.xhtml"/>
+          <navPoint id="num_10" playOrder="10">
+            <navLabel>
+              <text>1. Obec učedníků po Ježíšově nanebevstoupení</text>
+            </navLabel>
+            <content src="chapter-2.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_11" playOrder="11">
+            <navLabel>
+              <text>2. Podoba církve v prvokřesťanské době</text>
+            </navLabel>
+            <content src="chapter-2.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_12" playOrder="12">
+          <navLabel>
+            <text>§ 3 POSTUP MLADÉ CÍRKVE Z JERUZALÉMA DO ŘÍMA</text>
+          </navLabel>
+          <content src="chapter-3.xhtml"/>
+          <navPoint id="num_13" playOrder="13">
+            <navLabel>
+              <text>1. Prvotní obec v Jeruzalémě</text>
+            </navLabel>
+            <content src="chapter-3.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_14" playOrder="14">
+            <navLabel>
+              <text>2. Obec v Antiochii</text>
+            </navLabel>
+            <content src="chapter-3.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_15" playOrder="15">
+            <navLabel>
+              <text>3. Počátky římské obce</text>
+            </navLabel>
+            <content src="chapter-3.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_16" playOrder="16">
+          <navLabel>
+            <text>§ 4 DALŠÍ ŠÍŘENÍ KŘESŤANSTVÍ AŽ DO 3. STOLETÍ</text>
+          </navLabel>
+          <content src="chapter-4.xhtml"/>
+        </navPoint>
+        <navPoint id="num_17" playOrder="17">
+          <navLabel>
+            <text>§ 5 PRVNÍ DUCHOVNÍ ROZVOJ KŘESŤANSTVÍ</text>
+          </navLabel>
+          <content src="chapter-5.xhtml"/>
+          <navPoint id="num_18" playOrder="18">
+            <navLabel>
+              <text>1. Apoštolští otcové</text>
+            </navLabel>
+            <content src="chapter-5.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_19" playOrder="19">
+            <navLabel>
+              <text>2. Raně křesťanští apologeté</text>
+            </navLabel>
+            <content src="chapter-5.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_20" playOrder="20">
+            <navLabel>
+              <text>3. Církevní otcové</text>
+            </navLabel>
+            <content src="chapter-5.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_21" playOrder="21">
+          <navLabel>
+            <text>§ 6 POČÁTKY KŘESŤANSKÉ ŠKOLY ALEXANDRIJSKÉ</text>
+          </navLabel>
+          <content src="chapter-6.xhtml"/>
+        </navPoint>
+        <navPoint id="num_22" playOrder="22">
+          <navLabel>
+            <text>§ 7 VNITŘNÍ KRIZE: ROZKOLY A HEREZE</text>
+          </navLabel>
+          <content src="chapter-7.xhtml"/>
+          <navPoint id="num_23" playOrder="23">
+            <navLabel>
+              <text>1. Židokřesťanské hereze</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_24" playOrder="24">
+            <navLabel>
+              <text>2. Gnostické systémy</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_25" playOrder="25">
+            <navLabel>
+              <text>3. Manicheismus</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_26" playOrder="26">
+            <navLabel>
+              <text>4. Marcionismus</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_4"/>
+          </navPoint>
+          <navPoint id="num_27" playOrder="27">
+            <navLabel>
+              <text>5. Enkratité</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_5"/>
+          </navPoint>
+          <navPoint id="num_28" playOrder="28">
+            <navLabel>
+              <text>6. Montanismus</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_6"/>
+          </navPoint>
+          <navPoint id="num_29" playOrder="29">
+            <navLabel>
+              <text>7. Smysl herezí a rozkolů</text>
+            </navLabel>
+            <content src="chapter-7.xhtml#toc_7"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_30" playOrder="30">
+          <navLabel>
+            <text>§ 8 PRONÁSLEDOVÁNÍ KŘESŤANŮ V ŘÍMSKÉ ŘÍŠI</text>
+          </navLabel>
+          <content src="chapter-8.xhtml"/>
+          <navPoint id="num_31" playOrder="31">
+            <navLabel>
+              <text>1. Příčiny pronásledování</text>
+            </navLabel>
+            <content src="chapter-8.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_32" playOrder="32">
+            <navLabel>
+              <text>2. Průběh pronásledování</text>
+            </navLabel>
+            <content src="chapter-8.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>II. epocha: 312-604 (Od Konstantina Velikého k Řehoři Velikému)</text>
+        </navLabel>
+        <content src="chapter-9.xhtml"/>
+        <navPoint id="num_34" playOrder="34">
+          <navLabel>
+            <text>§ 9 KONSTANTINOVSKÝ OBRAT</text>
+          </navLabel>
+          <content src="chapter-9.xhtml#toc_1"/>
+          <navPoint id="num_35" playOrder="35">
+            <navLabel>
+              <text>1. Konstantinův přístup ke křesťanství</text>
+            </navLabel>
+            <content src="chapter-9.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_36" playOrder="36">
+            <navLabel>
+              <text>2. Založení říšské církve</text>
+            </navLabel>
+            <content src="chapter-9.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_37" playOrder="37">
+            <navLabel>
+              <text>3. Problematika obratu</text>
+            </navLabel>
+            <content src="chapter-9.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_38" playOrder="38">
+          <navLabel>
+            <text>§ 10 DOGMATICKÉ ZÁPASY A VŠEOBECNÉ KONCILY NA VÝCHODĚ</text>
+          </navLabel>
+          <content src="chapter-10.xhtml"/>
+          <navPoint id="num_39" playOrder="39">
+            <navLabel>
+              <text>1. Nauka o Trojici</text>
+            </navLabel>
+            <content src="chapter-10.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_40" playOrder="40">
+            <navLabel>
+              <text>2. Christologie</text>
+            </navLabel>
+            <content src="chapter-10.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_41" playOrder="41">
+          <navLabel>
+            <text>§ 11 ZÁPADNÍ TEOLOGIE. AUGUSTIN A SPORY O NAUKU O OSPRAVEDLNĚNÍ A MILOSTI</text>
+          </navLabel>
+          <content src="chapter-11.xhtml"/>
+          <navPoint id="num_42" playOrder="42">
+            <navLabel>
+              <text>1. Ambrož (339-397)</text>
+            </navLabel>
+            <content src="chapter-11.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_43" playOrder="43">
+            <navLabel>
+              <text>2. Augustin</text>
+            </navLabel>
+            <content src="chapter-11.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_44" playOrder="44">
+            <navLabel>
+              <text>3. Jeroným</text>
+            </navLabel>
+            <content src="chapter-11.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_45" playOrder="45">
+            <navLabel>
+              <text>4. Papež Řehoř I. Veliký (590-604)</text>
+            </navLabel>
+            <content src="chapter-11.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_46" playOrder="46">
+          <navLabel>
+            <text>§ 12 ASKEZE A MNIŠSTVÍ VE STARÉ CÍRKVI</text>
+          </navLabel>
+          <content src="chapter-12.xhtml"/>
+          <navPoint id="num_47" playOrder="47">
+            <navLabel>
+              <text>1. Dějiny problému</text>
+            </navLabel>
+            <content src="chapter-12.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_48" playOrder="48">
+            <navLabel>
+              <text>2. Podstata mnišství</text>
+            </navLabel>
+            <content src="chapter-12.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_49" playOrder="49">
+            <navLabel>
+              <text>3. Velcí otcové mnišství</text>
+            </navLabel>
+            <content src="chapter-12.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_50" playOrder="50">
+          <navLabel>
+            <text>§ 13 ŘÍM A VÝCHODNÍ PATRIARCHÁTY. OTÁZKA PRIMÁTU</text>
+          </navLabel>
+          <content src="chapter-13.xhtml"/>
+          <navPoint id="num_51" playOrder="51">
+            <navLabel>
+              <text>1. Římská církevní obec</text>
+            </navLabel>
+            <content src="chapter-13.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_52" playOrder="52">
+            <navLabel>
+              <text>2. Otázka primátu</text>
+            </navLabel>
+            <content src="chapter-13.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_53" playOrder="53">
+            <navLabel>
+              <text>3. Starý a Nový Řím</text>
+            </navLabel>
+            <content src="chapter-13.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_54" playOrder="54">
+      <navLabel>
+        <text>II. období: STŘEDOVĚKÁ CÍRKEV</text>
+      </navLabel>
+      <content src="chapter-14.xhtml"/>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>§ 14 ROZDĚLENÍ A ZÁKLADNÍ STRUKTURA ZÁPADOEVROPSKÉHO STŘEDOVĚKU</text>
+        </navLabel>
+        <content src="chapter-14.xhtml#toc_1"/>
+        <navPoint id="num_56" playOrder="56">
+          <navLabel>
+            <text>1. Periodizace a označení</text>
+          </navLabel>
+          <content src="chapter-14.xhtml#toc_2"/>
+        </navPoint>
+        <navPoint id="num_57" playOrder="57">
+          <navLabel>
+            <text>2. Antika, křesťanství a Germáni</text>
+          </navLabel>
+          <content src="chapter-14.xhtml#toc_3"/>
+        </navPoint>
+        <navPoint id="num_58" playOrder="58">
+          <navLabel>
+            <text>3. Základní znaky středověku</text>
+          </navLabel>
+          <content src="chapter-14.xhtml#toc_4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>I. epocha: 500-700</text>
+        </navLabel>
+        <content src="chapter-15.xhtml"/>
+        <navPoint id="num_60" playOrder="60">
+          <navLabel>
+            <text>§ 15 CÍRKEV JAKO PRŮKOPNICE RODÍCÍHO SE ZÁPADU</text>
+          </navLabel>
+          <content src="chapter-15.xhtml#toc_1"/>
+        </navPoint>
+        <navPoint id="num_61" playOrder="61">
+          <navLabel>
+            <text>§ 16 PRVNÍ SETKÁNÍ GERMÁNŮ S CÍRKVÍ</text>
+          </navLabel>
+          <content src="chapter-16.xhtml"/>
+        </navPoint>
+        <navPoint id="num_62" playOrder="62">
+          <navLabel>
+            <text>§ 17 IROSKOTSKÁ CÍRKEV A JEJÍ MISIE NA PEVNINĚ</text>
+          </navLabel>
+          <content src="chapter-17.xhtml"/>
+          <navPoint id="num_63" playOrder="63">
+            <navLabel>
+              <text>1. Pokřesťanštění Irska</text>
+            </navLabel>
+            <content src="chapter-17.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_64" playOrder="64">
+            <navLabel>
+              <text>2. Irská misie na pevnině. Kolumbán Mladší</text>
+            </navLabel>
+            <content src="chapter-17.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_65" playOrder="65">
+          <navLabel>
+            <text>§ 18 KŘESŤANSTVÍ V BRITÁNII A ANGLOSASKÁ MISIE NA PEVNINĚ</text>
+          </navLabel>
+          <content src="chapter-18.xhtml"/>
+          <navPoint id="num_66" playOrder="66">
+            <navLabel>
+              <text>1. Misijní činnost v Anglii</text>
+            </navLabel>
+            <content src="chapter-18.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_67" playOrder="67">
+            <navLabel>
+              <text>2. Anglosaská misie na pevnině</text>
+            </navLabel>
+            <content src="chapter-18.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>II. epocha: 700-1050</text>
+        </navLabel>
+        <content src="chapter-19.xhtml"/>
+        <navPoint id="num_69" playOrder="69">
+          <navLabel>
+            <text>§ 19 WINFRIED BONIFÁC A ZALOŽENÍ KŘESŤANSKÉHO ZÁPADU</text>
+          </navLabel>
+          <content src="chapter-19.xhtml#toc_1"/>
+        </navPoint>
+        <navPoint id="num_70" playOrder="70">
+          <navLabel>
+            <text>§ 20 SVAZEK MEZI PAPEŽSTVÍM A FRANSKOU ŘÍŠÍ</text>
+          </navLabel>
+          <content src="chapter-20.xhtml"/>
+          <navPoint id="num_71" playOrder="71">
+            <navLabel>
+              <text>1. Papežství mezi Východem a Západem</text>
+            </navLabel>
+            <content src="chapter-20.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_72" playOrder="72">
+            <navLabel>
+              <text>2. Nové úkoly franské říše</text>
+            </navLabel>
+            <content src="chapter-20.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_73" playOrder="73">
+          <navLabel>
+            <text>§ 21 KAREL VELIKÝ A ZALOŽENÍ ZÁPADNÍHO CÍSAŘSTVÍ</text>
+          </navLabel>
+          <content src="chapter-21.xhtml"/>
+          <navPoint id="num_74" playOrder="74">
+            <navLabel>
+              <text>1. Karlův život a dílo</text>
+            </navLabel>
+            <content src="chapter-21.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_75" playOrder="75">
+            <navLabel>
+              <text>2. Karlova idea říše</text>
+            </navLabel>
+            <content src="chapter-21.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_76" playOrder="76">
+            <navLabel>
+              <text>3. Karlovo řízení církve</text>
+            </navLabel>
+            <content src="chapter-21.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_77" playOrder="77">
+            <navLabel>
+              <text>4. Karlova idea císařství</text>
+            </navLabel>
+            <content src="chapter-21.xhtml#toc_4"/>
+          </navPoint>
+          <navPoint id="num_78" playOrder="78">
+            <navLabel>
+              <text>5. Císařská korunovace a její problémy</text>
+            </navLabel>
+            <content src="chapter-21.xhtml#toc_5"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_79" playOrder="79">
+          <navLabel>
+            <text>§ 22 ROZPAD KARLOVSKÉ ŘÍŠE A „SAECULUM OBSCURUM” (TEMNÉ STOLETÍ) ŘÍMSKÉ CÍRKVE</text>
+          </navLabel>
+          <content src="chapter-22.xhtml"/>
+          <navPoint id="num_80" playOrder="80">
+            <navLabel>
+              <text>1. Říše</text>
+            </navLabel>
+            <content src="chapter-22.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_81" playOrder="81">
+            <navLabel>
+              <text>2. Církev</text>
+            </navLabel>
+            <content src="chapter-22.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_82" playOrder="82">
+          <navLabel>
+            <text>§ 23 OTA VELIKÝ A OBNOVENÍ ZÁPADNÍHO CÍSAŘSTVÍ</text>
+          </navLabel>
+          <content src="chapter-23.xhtml"/>
+          <navPoint id="num_83" playOrder="83">
+            <navLabel>
+              <text>1. Otova říšská a církevní politika</text>
+            </navLabel>
+            <content src="chapter-23.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_84" playOrder="84">
+            <navLabel>
+              <text>2. Obnovení císařství roku 962</text>
+            </navLabel>
+            <content src="chapter-23.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_85" playOrder="85">
+            <navLabel>
+              <text>3. Císařská idea Oty Velikého</text>
+            </navLabel>
+            <content src="chapter-23.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_86" playOrder="86">
+          <navLabel>
+            <text>§ 24 SVATÁ ŘÍŠE (SACRUM IMPERIUM). OTONSKÁ A SÁLSKÁ ŘÍŠE DO ROKU 1046</text>
+          </navLabel>
+          <content src="chapter-24.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>III. epocha: 1050-1300 (Rozkvět církve ve vrcholném středověku)</text>
+        </navLabel>
+        <content src="chapter-25.xhtml"/>
+        <navPoint id="num_88" playOrder="88">
+          <navLabel>
+            <text>§ 25 CLUNY A MNIŠSKÉ REFORMNÍ HNUTÍ</text>
+          </navLabel>
+          <content src="chapter-25.xhtml#toc_1"/>
+        </navPoint>
+        <navPoint id="num_89" playOrder="89">
+          <navLabel>
+            <text>§ 26 GREGORIÁNSKÁ REFORMA A SPOR O INVESTITURU</text>
+          </navLabel>
+          <content src="chapter-26.xhtml"/>
+          <navPoint id="num_90" playOrder="90">
+            <navLabel>
+              <text>1. Svoboda církve</text>
+            </navLabel>
+            <content src="chapter-26.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_91" playOrder="91">
+            <navLabel>
+              <text>2. Boj o investituru</text>
+            </navLabel>
+            <content src="chapter-26.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_92" playOrder="92">
+            <navLabel>
+              <text>4. Výsledky</text>
+            </navLabel>
+            <content src="chapter-26.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_93" playOrder="93">
+          <navLabel>
+            <text>§ 27 VELKÉ VÝCHODNÍ SCHIZMA Z ROKU 1054</text>
+          </navLabel>
+          <content src="chapter-27.xhtml"/>
+        </navPoint>
+        <navPoint id="num_94" playOrder="94">
+          <navLabel>
+            <text>§ 28 NOVÝ DUCH ZÁPADU</text>
+          </navLabel>
+          <content src="chapter-28.xhtml"/>
+          <navPoint id="num_95" playOrder="95">
+            <navLabel>
+              <text>1. Nové formy mnišství</text>
+            </navLabel>
+            <content src="chapter-28.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_96" playOrder="96">
+            <navLabel>
+              <text>2. Reforma světského kléru (kanovnická reforma)</text>
+            </navLabel>
+            <content src="chapter-28.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_97" playOrder="97">
+            <navLabel>
+              <text>3. Reforma laiků</text>
+            </navLabel>
+            <content src="chapter-28.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_98" playOrder="98">
+          <navLabel>
+            <text>§ 29 KŘIŽÁCKÉ HNUTÍ</text>
+          </navLabel>
+          <content src="chapter-29.xhtml"/>
+          <navPoint id="num_99" playOrder="99">
+            <navLabel>
+              <text>1. Křížové výpravy</text>
+            </navLabel>
+            <content src="chapter-29.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_100" playOrder="100">
+            <navLabel>
+              <text>2. Rytířské řády</text>
+            </navLabel>
+            <content src="chapter-29.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_101" playOrder="101">
+            <navLabel>
+              <text>3. Význam křižáckého hnutí</text>
+            </navLabel>
+            <content src="chapter-29.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_102" playOrder="102">
+          <navLabel>
+            <text>§ 30 HNUTÍ CHUDOBY, HEREZE A INKVIZICE</text>
+          </navLabel>
+          <content src="chapter-30.xhtml"/>
+          <navPoint id="num_103" playOrder="103">
+            <navLabel>
+              <text>1. Biblicismus a následování Krista</text>
+            </navLabel>
+            <content src="chapter-30.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_104" playOrder="104">
+            <navLabel>
+              <text>2. Kataři</text>
+            </navLabel>
+            <content src="chapter-30.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_105" playOrder="105">
+            <navLabel>
+              <text>3. Inkvizice</text>
+            </navLabel>
+            <content src="chapter-30.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_106" playOrder="106">
+          <navLabel>
+            <text>§ 31 VELKÉ ŽEBRAVÉ ŘÁDY</text>
+          </navLabel>
+          <content src="chapter-31.xhtml"/>
+          <navPoint id="num_107" playOrder="107">
+            <navLabel>
+              <text>1. František z Assisi a jeho řád</text>
+            </navLabel>
+            <content src="chapter-31.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_108" playOrder="108">
+            <navLabel>
+              <text>2. Dominik a dominikáni</text>
+            </navLabel>
+            <content src="chapter-31.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_109" playOrder="109">
+          <navLabel>
+            <text>§ 32 TEOLOGICKÁ VĚDA A UNIVERZITY</text>
+          </navLabel>
+          <content src="chapter-32.xhtml"/>
+          <navPoint id="num_110" playOrder="110">
+            <navLabel>
+              <text>1. Scholastika a její představitelé</text>
+            </navLabel>
+            <content src="chapter-32.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_111" playOrder="111">
+            <navLabel>
+              <text>2. Vznik univerzit</text>
+            </navLabel>
+            <content src="chapter-32.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_112" playOrder="112">
+          <navLabel>
+            <text>§ 33 PAPEŽSTVÍ OD INOCENCE III. DO BONIFÁCE VIII.</text>
+          </navLabel>
+          <content src="chapter-33.xhtml"/>
+          <navPoint id="num_113" playOrder="113">
+            <navLabel>
+              <text>1. Inocenc III.</text>
+            </navLabel>
+            <content src="chapter-33.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_114" playOrder="114">
+            <navLabel>
+              <text>2. Poslední zápas mezi papežstvím a štaufským císařstvím</text>
+            </navLabel>
+            <content src="chapter-33.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_115" playOrder="115">
+            <navLabel>
+              <text>3. Bonifác VIII.</text>
+            </navLabel>
+            <content src="chapter-33.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>IV. epocha: 1300-1500 (Církev v době rozpadu západní jednoty)</text>
+        </navLabel>
+        <content src="chapter-34.xhtml"/>
+        <navPoint id="num_117" playOrder="117">
+          <navLabel>
+            <text>§ 34 AVIGNONSKÝ „EXIL” A VELKÉ ZÁPADNÍ SCHIZMA</text>
+          </navLabel>
+          <content src="chapter-34.xhtml#toc_1"/>
+          <navPoint id="num_118" playOrder="118">
+            <navLabel>
+              <text>1. Papežové v Avignonu</text>
+            </navLabel>
+            <content src="chapter-34.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_119" playOrder="119">
+            <navLabel>
+              <text>2. Západní schizma</text>
+            </navLabel>
+            <content src="chapter-34.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_120" playOrder="120">
+          <navLabel>
+            <text>§ 35 KOSTNICKÝ KONCIL A KONCILIARISMUS</text>
+          </navLabel>
+          <content src="chapter-35.xhtml"/>
+          <navPoint id="num_121" playOrder="121">
+            <navLabel>
+              <text>1. Co předcházelo</text>
+            </navLabel>
+            <content src="chapter-35.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_122" playOrder="122">
+            <navLabel>
+              <text>2. Průběh a snahy o jednotu</text>
+            </navLabel>
+            <content src="chapter-35.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_123" playOrder="123">
+            <navLabel>
+              <text>3. Jan Hus a jeho kostnický proces</text>
+            </navLabel>
+            <content src="chapter-35.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_124" playOrder="124">
+            <navLabel>
+              <text>4. Otázka reformy na koncilu</text>
+            </navLabel>
+            <content src="chapter-35.xhtml#toc_4"/>
+          </navPoint>
+          <navPoint id="num_125" playOrder="125">
+            <navLabel>
+              <text>5. Volba papeže</text>
+            </navLabel>
+            <content src="chapter-35.xhtml#toc_5"/>
+          </navPoint>
+          <navPoint id="num_126" playOrder="126">
+            <navLabel>
+              <text>6. Po koncilu. Basilejský „konciliarismus”</text>
+            </navLabel>
+            <content src="chapter-35.xhtml#toc_6"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_127" playOrder="127">
+          <navLabel>
+            <text>§ 36 RENESANČNÍ PAPEŽSTVÍ. ALEXANDER VI. A SAVONAROLA</text>
+          </navLabel>
+          <content src="chapter-36.xhtml"/>
+          <navPoint id="num_128" playOrder="128">
+            <navLabel>
+              <text>1. Renesanční papežové</text>
+            </navLabel>
+            <content src="chapter-36.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_129" playOrder="129">
+            <navLabel>
+              <text>2. Alexander VI. a Savonarola</text>
+            </navLabel>
+            <content src="chapter-36.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_130" playOrder="130">
+            <navLabel>
+              <text>3. Julius II.</text>
+            </navLabel>
+            <content src="chapter-36.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_131" playOrder="131">
+      <navLabel>
+        <text>III. období: CÍRKEV V NOVOVĚKU</text>
+      </navLabel>
+      <content src="chapter-37.xhtml"/>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>I. epocha: 1500-1700 (Reformace a katolická reforma)</text>
+        </navLabel>
+        <content src="chapter-37.xhtml#toc_1"/>
+        <navPoint id="num_133" playOrder="133">
+          <navLabel>
+            <text>§ 37 PŘEDPOKLADY REFORMACE</text>
+          </navLabel>
+          <content src="chapter-37.xhtml#toc_2"/>
+          <navPoint id="num_134" playOrder="134">
+            <navLabel>
+              <text>1. Církevní zlořády v pozdním středověku</text>
+            </navLabel>
+            <content src="chapter-37.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_135" playOrder="135">
+            <navLabel>
+              <text>2. Kladné hodnoty</text>
+            </navLabel>
+            <content src="chapter-37.xhtml#toc_4"/>
+          </navPoint>
+          <navPoint id="num_136" playOrder="136">
+            <navLabel>
+              <text>3. Symbióza náboženství a života</text>
+            </navLabel>
+            <content src="chapter-37.xhtml#toc_5"/>
+          </navPoint>
+          <navPoint id="num_137" playOrder="137">
+            <navLabel>
+              <text>4. Touha po reformě</text>
+            </navLabel>
+            <content src="chapter-37.xhtml#toc_6"/>
+          </navPoint>
+          <navPoint id="num_138" playOrder="138">
+            <navLabel>
+              <text>5. Nominalismus</text>
+            </navLabel>
+            <content src="chapter-37.xhtml#toc_7"/>
+          </navPoint>
+          <navPoint id="num_139" playOrder="139">
+            <navLabel>
+              <text>6. Humanismus a biblicismus</text>
+            </navLabel>
+            <content src="chapter-37.xhtml#toc_8"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_140" playOrder="140">
+          <navLabel>
+            <text>§ 38 ERASMUS ROTTERDAMSKÝ A HUMANISMUS</text>
+          </navLabel>
+          <content src="chapter-38.xhtml"/>
+        </navPoint>
+        <navPoint id="num_141" playOrder="141">
+          <navLabel>
+            <text>§ 39 MARTIN LUTHER. JEHO VÝVOJ V REFORMÁTORA</text>
+          </navLabel>
+          <content src="chapter-39.xhtml"/>
+          <navPoint id="num_142" playOrder="142">
+            <navLabel>
+              <text>1. Dnešní katolický obraz Luthera</text>
+            </navLabel>
+            <content src="chapter-39.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_143" playOrder="143">
+            <navLabel>
+              <text>2. Lutherův vývoj</text>
+            </navLabel>
+            <content src="chapter-39.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_144" playOrder="144">
+            <navLabel>
+              <text>3. Spor o odpustky a první rozpory</text>
+            </navLabel>
+            <content src="chapter-39.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_145" playOrder="145">
+            <navLabel>
+              <text>4. Rozchod s církví</text>
+            </navLabel>
+            <content src="chapter-39.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_146" playOrder="146">
+          <navLabel>
+            <text>§ 40 POSTUP REFORMACE V NĚMECKU</text>
+          </navLabel>
+          <content src="chapter-40.xhtml"/>
+          <navPoint id="num_147" playOrder="147">
+            <navLabel>
+              <text>1. Říšský sněm ve Wormsu</text>
+            </navLabel>
+            <content src="chapter-40.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_148" playOrder="148">
+            <navLabel>
+              <text>2. Vývoj v Německu 1521-1530</text>
+            </navLabel>
+            <content src="chapter-40.xhtml#toc_5"/>
+          </navPoint>
+          <navPoint id="num_149" playOrder="149">
+            <navLabel>
+              <text>3. Augsburský říšský sněm roku 1530</text>
+            </navLabel>
+            <content src="chapter-40.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_150" playOrder="150">
+            <navLabel>
+              <text>4. Od rozprav o unii do augsburského náboženského míru roku 1555</text>
+            </navLabel>
+            <content src="chapter-40.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_151" playOrder="151">
+            <navLabel>
+              <text>5. Shrnutí</text>
+            </navLabel>
+            <content src="chapter-40.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_152" playOrder="152">
+          <navLabel>
+            <text>§ 41 ULRICH ZWINGLI A NOVOKŘTĚNSTVÍ</text>
+          </navLabel>
+          <content src="chapter-41.xhtml"/>
+          <navPoint id="num_153" playOrder="153">
+            <navLabel>
+              <text>1. Život a působení Zwingliho</text>
+            </navLabel>
+            <content src="chapter-41.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_154" playOrder="154">
+            <navLabel>
+              <text>2. Dějiny novokřtěnců</text>
+            </navLabel>
+            <content src="chapter-41.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_155" playOrder="155">
+          <navLabel>
+            <text>§ 42 JAN KALVÍN A REFORMACE V ŽENEVĚ</text>
+          </navLabel>
+          <content src="chapter-42.xhtml"/>
+          <navPoint id="num_156" playOrder="156">
+            <navLabel>
+              <text>1. Životopis</text>
+            </navLabel>
+            <content src="chapter-42.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_157" playOrder="157">
+            <navLabel>
+              <text>2. Nauka</text>
+            </navLabel>
+            <content src="chapter-42.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_158" playOrder="158">
+            <navLabel>
+              <text>3. Rozšíření</text>
+            </navLabel>
+            <content src="chapter-42.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_159" playOrder="159">
+          <navLabel>
+            <text>§ 43 JINDŘICH VIII. A ANGLICKÝ CÍRKEVNÍ ROZKOL</text>
+          </navLabel>
+          <content src="chapter-43.xhtml"/>
+        </navPoint>
+        <navPoint id="num_160" playOrder="160">
+          <navLabel>
+            <text>§ 44 CÍRKEVNÍ SNAHY O REFORMU PŘED TRIDENTSKÝM KONCILEM</text>
+          </navLabel>
+          <content src="chapter-44.xhtml"/>
+        </navPoint>
+        <navPoint id="num_161" playOrder="161">
+          <navLabel>
+            <text>§ 45 TRIDENTSKÝ KONCIL 1545-1563</text>
+          </navLabel>
+          <content src="chapter-45.xhtml"/>
+          <navPoint id="num_162" playOrder="162">
+            <navLabel>
+              <text>1. Předběžné porady</text>
+            </navLabel>
+            <content src="chapter-45.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_163" playOrder="163">
+            <navLabel>
+              <text>2. Průběh koncilu</text>
+            </navLabel>
+            <content src="chapter-45.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_164" playOrder="164">
+          <navLabel>
+            <text>§ 46 OBNOVA PO VELKÉM KONCILU</text>
+          </navLabel>
+          <content src="chapter-46.xhtml"/>
+          <navPoint id="num_165" playOrder="165">
+            <navLabel>
+              <text>1. Papežství</text>
+            </navLabel>
+            <content src="chapter-46.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_166" playOrder="166">
+            <navLabel>
+              <text>2. Episkopát</text>
+            </navLabel>
+            <content src="chapter-46.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_167" playOrder="167">
+            <navLabel>
+              <text>3. Řeholní stav</text>
+            </navLabel>
+            <content src="chapter-46.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_168" playOrder="168">
+            <navLabel>
+              <text>4. Ignác a jezuitský řád</text>
+            </navLabel>
+            <content src="chapter-46.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_169" playOrder="169">
+          <navLabel>
+            <text>§ 47 PROTIREFORMACE: INKVIZICE, PRONÁSLEDOVÁNÍ KACÍŘŮ A HON NA ČARODĚJNICE</text>
+          </navLabel>
+          <content src="chapter-47.xhtml"/>
+          <navPoint id="num_170" playOrder="170">
+            <navLabel>
+              <text>1. Předběžná poznámka</text>
+            </navLabel>
+            <content src="chapter-47.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_171" playOrder="171">
+            <navLabel>
+              <text>2. Vytvoření konfesního vědomí a duch protireformace</text>
+            </navLabel>
+            <content src="chapter-47.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_172" playOrder="172">
+            <navLabel>
+              <text>3. Inkvizice</text>
+            </navLabel>
+            <content src="chapter-47.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_173" playOrder="173">
+            <navLabel>
+              <text>4. Hon na čarodějnice</text>
+            </navLabel>
+            <content src="chapter-47.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_174" playOrder="174">
+          <navLabel>
+            <text>§ 48 NOVÉ OBDOBÍ SVĚTOVÝCH MISIÍ</text>
+          </navLabel>
+          <content src="chapter-48.xhtml"/>
+          <navPoint id="num_175" playOrder="175">
+            <navLabel>
+              <text>1. Situace ve středověk</text>
+            </navLabel>
+            <content src="chapter-48.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_176" playOrder="176">
+            <navLabel>
+              <text>2. Doba zeměpisných objevů</text>
+            </navLabel>
+            <content src="chapter-48.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_177" playOrder="177">
+            <navLabel>
+              <text>3. Misie v Indii a v Číně. Spor o akomodaci</text>
+            </navLabel>
+            <content src="chapter-48.xhtml#toc_3"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_178" playOrder="178">
+          <navLabel>
+            <text>§ 49 OD BAROKA K OSVÍCENSTVÍ</text>
+          </navLabel>
+          <content src="chapter-49.xhtml"/>
+          <navPoint id="num_179" playOrder="179">
+            <navLabel>
+              <text>1. Proudy v církvi namířené proti centralismu kurie</text>
+            </navLabel>
+            <content src="chapter-49.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_180" playOrder="180">
+            <navLabel>
+              <text>2. Osvícenství</text>
+            </navLabel>
+            <content src="chapter-49.xhtml#toc_1"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_181" playOrder="181">
+        <navLabel>
+          <text>II. epocha: 1789-1918 (Od Francouzské revoluce do první světové války)</text>
+        </navLabel>
+        <content src="chapter-50.xhtml"/>
+        <navPoint id="num_182" playOrder="182">
+          <navLabel>
+            <text>§ 50 FRANCOUZSKÁ REVOLUCE A SEKULARIZACE</text>
+          </navLabel>
+          <content src="chapter-50.xhtml#toc_1"/>
+          <navPoint id="num_183" playOrder="183">
+            <navLabel>
+              <text>1. Revoluce</text>
+            </navLabel>
+            <content src="chapter-50.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_184" playOrder="184">
+            <navLabel>
+              <text>2. Sekularizace</text>
+            </navLabel>
+            <content src="chapter-50.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_185" playOrder="185">
+          <navLabel>
+            <text>§ 51 RESTAURACE NĚMECKÉ CÍRKVE V 19. STOLETÍ</text>
+          </navLabel>
+          <content src="chapter-51.xhtml"/>
+          <navPoint id="num_186" playOrder="186">
+            <navLabel>
+              <text>1. Nové uspořádání vztahů se státem</text>
+            </navLabel>
+            <content src="chapter-51.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_187" playOrder="187">
+            <navLabel>
+              <text>2. Vnitřní rozvoj</text>
+            </navLabel>
+            <content src="chapter-51.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_188" playOrder="188">
+          <navLabel>
+            <text>§ 52 PAPEŽOVÉ A CÍRKEVNÍ STÁT</text>
+          </navLabel>
+          <content src="chapter-52.xhtml"/>
+        </navPoint>
+        <navPoint id="num_189" playOrder="189">
+          <navLabel>
+            <text>§ 53 PRVNÍ VATIKÁNSKÝ KONCIL</text>
+          </navLabel>
+          <content src="chapter-53.xhtml"/>
+          <navPoint id="num_190" playOrder="190">
+            <navLabel>
+              <text>1. Příprava</text>
+            </navLabel>
+            <content src="chapter-53.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_191" playOrder="191">
+            <navLabel>
+              <text>2. Průběh koncilu</text>
+            </navLabel>
+            <content src="chapter-53.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_192" playOrder="192">
+          <navLabel>
+            <text>§ 54 PO KONCILU: STAROKATOLICTVÍ A KULTURNÍ BOJ V NĚMECKU</text>
+          </navLabel>
+          <content src="chapter-54.xhtml"/>
+          <navPoint id="num_193" playOrder="193">
+            <navLabel>
+              <text>1. Opozice v Německu</text>
+            </navLabel>
+            <content src="chapter-54.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_194" playOrder="194">
+            <navLabel>
+              <text>2. „Kulturní boj” v Německu</text>
+            </navLabel>
+            <content src="chapter-54.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_195" playOrder="195">
+          <navLabel>
+            <text>§ 55 PAPEŽOVÉ PO 1. VATIKÁNSKÉM KONCILU</text>
+          </navLabel>
+          <content src="chapter-55.xhtml"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_196" playOrder="196">
+        <navLabel>
+          <text>III. epocha: 1918-2005 (Od první světové války do současností)</text>
+        </navLabel>
+        <content src="chapter-56.xhtml"/>
+        <navPoint id="num_197" playOrder="197">
+          <navLabel>
+            <text>§ 56 NÁVRAT Z EXILU A NOVÝ VZESTUP</text>
+          </navLabel>
+          <content src="chapter-56.xhtml#toc_1"/>
+          <navPoint id="num_198" playOrder="198">
+            <navLabel>
+              <text>1. Situace ghetta v Německu</text>
+            </navLabel>
+            <content src="chapter-56.xhtml#toc_2"/>
+          </navPoint>
+          <navPoint id="num_199" playOrder="199">
+            <navLabel>
+              <text>2. Nové církevní vědomí: liturgické hnutí, ekumenismus</text>
+            </navLabel>
+            <content src="chapter-56.xhtml#toc_3"/>
+          </navPoint>
+          <navPoint id="num_200" playOrder="200">
+            <navLabel>
+              <text>3. Vývoj ve Francii, Itálii, Anglii a USA</text>
+            </navLabel>
+            <content src="chapter-56.xhtml#toc_4"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_201" playOrder="201">
+          <navLabel>
+            <text>§ 57 PONTIFIKÁTY PIA XI. A PIA XII.</text>
+          </navLabel>
+          <content src="chapter-57.xhtml"/>
+        </navPoint>
+        <navPoint id="num_202" playOrder="202">
+          <navLabel>
+            <text>§ 58 CÍRKEV V TŘETÍ ŘÍŠI</text>
+          </navLabel>
+          <content src="chapter-58.xhtml"/>
+          <navPoint id="num_203" playOrder="203">
+            <navLabel>
+              <text>1. Hitlerova politika</text>
+            </navLabel>
+            <content src="chapter-58.xhtml#toc_1"/>
+          </navPoint>
+          <navPoint id="num_204" playOrder="204">
+            <navLabel>
+              <text>2. Odpor církví</text>
+            </navLabel>
+            <content src="chapter-58.xhtml#toc_2"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="num_205" playOrder="205">
+          <navLabel>
+            <text>§ 59 PONTIFIKÁT JANA XXIII.</text>
+          </navLabel>
+          <content src="chapter-59.xhtml"/>
+        </navPoint>
+        <navPoint id="num_206" playOrder="206">
+          <navLabel>
+            <text>§ 60 DRUHÝ VATIKÁNSKÝ KONCIL</text>
+          </navLabel>
+          <content src="chapter-60.xhtml"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_207" playOrder="207">
+      <navLabel>
+        <text>Současné církevní dějiny - od roku 1965 do současnosti (Roland Fröhlich)</text>
+      </navLabel>
+      <content src="chapter-61.xhtml"/>
+      <navPoint id="num_208" playOrder="208">
+        <navLabel>
+          <text>§ 61 PONTIFIKÁTY PAVLA VI. A JANA PAVLA I.</text>
+        </navLabel>
+        <content src="chapter-61.xhtml#toc_1"/>
+        <navPoint id="num_209" playOrder="209">
+          <navLabel>
+            <text>1. První reformy</text>
+          </navLabel>
+          <content src="chapter-61.xhtml#toc_2"/>
+        </navPoint>
+        <navPoint id="num_210" playOrder="210">
+          <navLabel>
+            <text>2. Příznaky krize</text>
+          </navLabel>
+          <content src="chapter-61.xhtml#toc_3"/>
+        </navPoint>
+        <navPoint id="num_211" playOrder="211">
+          <navLabel>
+            <text>3. Znamení nové cesty</text>
+          </navLabel>
+          <content src="chapter-61.xhtml#toc_4"/>
+        </navPoint>
+        <navPoint id="num_212" playOrder="212">
+          <navLabel>
+            <text>4. Angažovanost pro mír</text>
+          </navLabel>
+          <content src="chapter-61.xhtml#toc_5"/>
+        </navPoint>
+        <navPoint id="num_213" playOrder="213">
+          <navLabel>
+            <text>5. Jan Pavel I.</text>
+          </navLabel>
+          <content src="chapter-61.xhtml#toc_6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_214" playOrder="214">
+        <navLabel>
+          <text>§ 62 PONTIFIKÁT JANA PAVLA II.</text>
+        </navLabel>
+        <content src="chapter-62.xhtml"/>
+        <navPoint id="num_215" playOrder="215">
+          <navLabel>
+            <text>1. Papežovo vedení</text>
+          </navLabel>
+          <content src="chapter-62.xhtml#toc_1"/>
+        </navPoint>
+        <navPoint id="num_216" playOrder="216">
+          <navLabel>
+            <text>2. Reformy</text>
+          </navLabel>
+          <content src="chapter-62.xhtml#toc_2"/>
+        </navPoint>
+        <navPoint id="num_217" playOrder="217">
+          <navLabel>
+            <text>3. Každý podle svého stavu</text>
+          </navLabel>
+          <content src="chapter-62.xhtml#toc_3"/>
+        </navPoint>
+        <navPoint id="num_218" playOrder="218">
+          <navLabel>
+            <text>4. Poslání teologů</text>
+          </navLabel>
+          <content src="chapter-62.xhtml#toc_4"/>
+        </navPoint>
+        <navPoint id="num_219" playOrder="219">
+          <navLabel>
+            <text>5. Papež pro svět</text>
+          </navLabel>
+          <content src="chapter-62.xhtml#toc_5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_220" playOrder="220">
+        <navLabel>
+          <text>§ 63 NOVĚJŠÍ VÝVOJ V CÍRKVI</text>
+        </navLabel>
+        <content src="chapter-63.xhtml"/>
+        <navPoint id="num_221" playOrder="221">
+          <navLabel>
+            <text>1. Ekumenické hnutí</text>
+          </navLabel>
+          <content src="chapter-63.xhtml#toc_1"/>
+        </navPoint>
+        <navPoint id="num_222" playOrder="222">
+          <navLabel>
+            <text>2. Zaměření na sociální spravedlnost</text>
+          </navLabel>
+          <content src="chapter-63.xhtml#toc_2"/>
+        </navPoint>
+        <navPoint id="num_223" playOrder="223">
+          <navLabel>
+            <text>3. Zkušenost společného světa</text>
+          </navLabel>
+          <content src="chapter-63.xhtml#toc_3"/>
+        </navPoint>
+        <navPoint id="num_224" playOrder="224">
+          <navLabel>
+            <text>4. Pontifikát Benedikta XVI.</text>
+          </navLabel>
+          <content src="chapter-63.xhtml#toc_4"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_225" playOrder="225">
+      <navLabel>
+        <text>Citáty a dokumenty</text>
+      </navLabel>
+      <content src="quotations-and-documents.xhtml"/>
+    </navPoint>
+    <navPoint id="num_226" playOrder="226">
+      <navLabel>
+        <text>Doplňky</text>
+      </navLabel>
+      <content src="annexes.xhtml"/>
+      <navPoint id="num_227" playOrder="227">
+        <navLabel>
+          <text>Kapitoly z českých a slovanských církevních dějin (Bedřich Smékal)</text>
+        </navLabel>
+        <content src="annexes.xhtml#toc_1"/>
+        <navPoint id="num_228" playOrder="228">
+          <navLabel>
+            <text>1. Slovanští apoštolové Konstantin a Metoděj</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_2"/>
+        </navPoint>
+        <navPoint id="num_229" playOrder="229">
+          <navLabel>
+            <text>2. Dědictví slovanských apoštolů</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_3"/>
+        </navPoint>
+        <navPoint id="num_230" playOrder="230">
+          <navLabel>
+            <text>3. Svatý Vojtěch</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_4"/>
+        </navPoint>
+        <navPoint id="num_231" playOrder="231">
+          <navLabel>
+            <text>4. Stíny univerzálního císařství</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_5"/>
+        </navPoint>
+        <navPoint id="num_232" playOrder="232">
+          <navLabel>
+            <text>5. Střední Evropa za vrcholného středověku</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_6"/>
+        </navPoint>
+        <navPoint id="num_233" playOrder="233">
+          <navLabel>
+            <text>6. Idea impéria u Karla IV.</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_7"/>
+        </navPoint>
+        <navPoint id="num_234" playOrder="234">
+          <navLabel>
+            <text>7. České náboženské hnutí</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_8"/>
+        </navPoint>
+        <navPoint id="num_235" playOrder="235">
+          <navLabel>
+            <text>8. Kalich a kališnictví</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_9"/>
+        </navPoint>
+        <navPoint id="num_236" playOrder="236">
+          <navLabel>
+            <text>9. Reformace a protireformace ve střední Evropě</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_10"/>
+        </navPoint>
+        <navPoint id="num_237" playOrder="237">
+          <navLabel>
+            <text>10. Unionismus</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_11"/>
+        </navPoint>
+        <navPoint id="num_238" playOrder="238">
+          <navLabel>
+            <text>11. Rakouské katolictví a československá církev</text>
+          </navLabel>
+          <content src="annexes.xhtml#toc_12"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_239" playOrder="239">
+      <navLabel>
+        <text>Chronologická tabulka</text>
+      </navLabel>
+      <content src="tables.xhtml"/>
+    </navPoint>
+    <navPoint id="num_240" playOrder="240">
+      <navLabel>
+        <text>Seznam papežů</text>
+      </navLabel>
+      <content src="popes.xhtml"/>
+    </navPoint>
+    <navPoint id="num_241" playOrder="241">
+      <navLabel>
+        <text>Literatura ke studiu církevních dějin</text>
+      </navLabel>
+      <content src="literature.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
